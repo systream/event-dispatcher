@@ -3,6 +3,22 @@ Observer for events
 
 ## Usage Examples
 
+## Installation
+
+You can install this package via [packagist.org](https://packagist.org/packages/systream/event-dispatcher) with [composer](https://getcomposer.org/).
+
+`composer require systream/event-dispatcher`
+
+composer.json:
+
+```json
+"require": {
+    "systream/event-dispatcher": "1.*"
+}
+```
+
+This library requires `php 5.6` or higher, but also works on php 5.4.
+
 ### Subscribe to event
 
 ```php
