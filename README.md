@@ -109,4 +109,4 @@ The only thing you need to do is that implementing the ```SubscriptionInterface`
 
 ## Test
 
-[![Build Status](https://travis-ci.org/systream/feature-switch.svg?branch=master)](https://travis-ci.org/systream/event-dispatcher)
+[![Build Status](https://travis-ci.org/systream/event-dispatcher.svg?branch=master)](https://travis-ci.org/systream/event-dispatcher)
